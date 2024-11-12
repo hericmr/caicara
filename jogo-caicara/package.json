@@ -13,14 +13,13 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
-    "homepage": "https://hericmr.github.io/caicara"
-
+    "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "homepage": "https://hericmr.github.io/caicara",
   "eslintConfig": {
     "extends": [
       "react-app",
